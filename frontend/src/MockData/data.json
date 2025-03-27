@@ -1,0 +1,31 @@
+    {
+      "content": [
+        {
+          "id": 1,
+          "title": "React Hooks Guide",
+          "author": "John Doe",
+          "rating": 4.5,
+          "dateCreated": "2024-03-15",
+          "categories": ["React", "Frontend"],
+          "description": "A comprehensive guide to understanding and mastering React Hooks in modern web development."
+        },
+        {
+          "id": 2,
+          "title": "Understanding Async/Await",
+          "author": "Jane Smith",
+          "rating": 4.8,
+          "dateCreated": "2024-02-28",
+          "categories": ["JavaScript", "Backend"],
+          "description": "Deep dive into asynchronous programming patterns in JavaScript using async/await syntax."
+        },
+        {
+          "id": 3,
+          "title": "TypeScript Fundamentals",
+          "author": "Alice Johnson",
+          "rating": 4.6,
+          "dateCreated": "2024-01-15",
+          "categories": ["TypeScript", "Frontend"],
+          "description": "Learn the core concepts of TypeScript and how to leverage its powerful type system."
+        }
+      ]
+    }
